@@ -16,8 +16,9 @@ Este repositório contém um cronômetro interativo desenvolvido com **JavaScrip
 
 ![Minha Imagem](./asset/iniciar.png)
 
-<img src= /.img/parar.png>
-<img src= /.img/resetar.png>
+![Minha Imagem](./asset/parar.png)
+
+![Minha Imagem](./asset/resetar.png)
 
 ## 📌 Como Usar
 1. Clone o repositório com o comando:
