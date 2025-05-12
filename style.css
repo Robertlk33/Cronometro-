@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+}
+
+.container {
+    margin-top: 50px; /* Cria um espaço entre o conteiner e o topo */
+}
+
+h1 {
+    color: rgb(255, 255, 255); /* Muda a cor do título para vermelho */
+    font-size: 3em; /* Ajusta o tamanho da fonte */
+}
+
+.cronometro {
+    font-size: 2em; /* Ajusta o tamanho da fonte */
+    margin: 20px 0; /* Centraliza a caixa */
+}
+
+button {
+    margin: 5px; /* Centraliza o botão */
+    padding: 10px; /* Espaçamento interno */
+    font-size: 16px; /* Ajusta o tamanho da fonte */
+    cursor: pointer; /*Altera o cursor para uma mãozinha ao passar o mouse*/
+}
+
+#display {
+    color: rgb(255, 255, 255); /* Muda a cor dos números para vermelho */
+    font-size: 50px; /* Ajusta o tamanho da fonte */
+    font-weight: bold; /* Deixa os números em negrito */
+}
+
+.caixa {
+    border: 2px solid #333; /* Borda para parecer uma caixa */
+    padding: 20px; /* Espaçamento interno */
+    background-color: #474545; /* Cor de fundo suave */
+    border-radius: 10px; /* Bordas arredondadas */
+    width: 1200px; /* Define uma largura fixa */
+    margin:  50px auto; /* Centraliza a caixa */
+}
+
+h2 {
+    color: #ffffff; /* Cor do título */
+    font-size: 30px; /* Tamanho do título */
+    font-weight: bold; /* Deixa o título mais destacado */
+    text-align: center; /* Centraliza o título */
+     border-bottom: 2px solid #fdfdfd; /* Linha separadora */
+}
+
+.descricao {
+    color: #ffffff; /* Cor do texto */
+    font-size: 25px; /* Ajusta tamanho da fonte */
+    line-height: 1.5; /* Espaçamento entre linhas para melhor leitura */
+    text-align: justify; /* Texto justificado */
+     white-space: pre-line; /* Mantém quebras de linha */
+}
