@@ -13,6 +13,9 @@ Este repositório contém um cronômetro interativo desenvolvido com **JavaScrip
 - **HTML** 📜 – Estruturação dos elementos que compõem o cronômetro.
 
 ##🖍 imagems do projeto
+<img src= /.img/inicia.png>
+<img src= /.img/parar.png>
+<img src= /.img/resetar.png>
 
 ## 📌 Como Usar
 1. Clone o repositório com o comando:
