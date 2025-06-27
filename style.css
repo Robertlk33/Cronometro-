@@ -10,11 +10,11 @@ body {
 
 h1 {
     color: rgb(255, 255, 255); /* Muda a cor do título para vermelho */
-    font-size: 3em; /* Ajusta o tamanho da fonte */
+    font-size: 50px; /* Ajusta o tamanho da fonte */
 }
 
 .cronometro {
-    font-size: 2em; /* Ajusta o tamanho da fonte */
+    font-size: 2px; /* Ajusta o tamanho da fonte */
     margin: 20px 0; /* Centraliza a caixa */
 }
 
